@@ -71,7 +71,7 @@ The repository includes seven portfolio case studies across:
 
 Macroeconomic and household purchasing-power analysis focused on inflation pressure, wage growth, and cost-of-living deterioration.
 
-[Project link]https://github.com/raianne-k/purchasing-power-decline-estonia
+[Project Link](https://github.com/raianne-k/purchasing-power-decline-estonia)
 
 ---
 
@@ -79,7 +79,7 @@ Macroeconomic and household purchasing-power analysis focused on inflation press
 
 Marketplace behavioral analysis exploring seller quality, retention dynamics, and customer satisfaction patterns.
 
-[Project link]https://github.com/raianne-k/marketplace-csat-analysis
+[Project Link](https://github.com/raianne-k/marketplace-csat-analysis)
 
 ---
 
@@ -87,7 +87,7 @@ Marketplace behavioral analysis exploring seller quality, retention dynamics, an
 
 Comparative market-performance analysis evaluating volatility, macroeconomic behavior, and cross-market trends.
 
-[Project link]https://github.com/raianne-k/sp500-ibovespa_performance_analysis
+[Project Link](https://github.com/raianne-k/sp500-ibovespa_performance_analysis)
 
 ---
 
@@ -95,7 +95,7 @@ Comparative market-performance analysis evaluating volatility, macroeconomic beh
 
 Exploratory pricing analysis investigating how vehicle characteristics relate to market pricing behavior.
 
-[Project link]https://github.com/raianne-k/vehicle-feature-price-analysis
+[Project Link](https://github.com/raianne-k/vehicle-feature-price-analysis)
 
 ---
 
