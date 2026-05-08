@@ -1,33 +1,117 @@
 ![Raianne Kuzer Banner](image.png)
-# Hi, I'm Rai!
 
-I’m a Product/Data Analyst focused on understanding user behavior, retention, and product performance.
+# Hi, I'm Rai
 
-I analyze how users interact with products to identify what drives engagement, where users drop off, and how those patterns connect to business outcomes.
+I build analytics and decision-support systems focused on product behavior, operational performance, experimentation, and strategic forecasting.
 
-## What I work on
-- Retention and cohort analysis  
-- Funnel and conversion optimization  
-- Behavioral segmentation  
-- Experimentation (A/B testing)
+My work combines:
+- product analytics
+- statistical reasoning
+- AI-assisted workflows
+- governance-aware interpretation
+- and executive-facing analytical reporting
 
-## Featured Project: Stats Agent
+I’m especially interested in how analytical systems can support better operational and product decisions while remaining interpretable, reviewable, and grounded in real business context.
 
-An automated analytics agent that transforms raw datasets into structured insights and recommendations.
+---
 
-- Retrieves and processes data (SQL / simulated pipelines)
-- Applies analytical logic (retention, funnels, segmentation)
-- Generates insight summaries and suggested actions
-- Includes validation checks to flag low-confidence outputs
+# Core Areas
 
-[View Project](https://github.com/raianne-k/statsagent)
+- Product analytics & operational insights
+- Retention & cohort analysis
+- Segmentation & behavioral profiling
+- Experimentation & A/B testing
+- Predictive analytics & churn modeling
+- Forecasting & scenario analysis
+- Governance-aware analytics
+- AI-assisted analytical workflows
 
-🔹 [Marketplace Retention Analysis](https://github.com/raianne-k/marketplace-csat-analysis)
-Analysis of buyer/seller behavior and retention drivers
+---
 
-## Background
-Previously worked in high-revenue iGaming as a Game Designer, focusing on engagement systems and product iteration.
+# Featured Project — StatsAgent
 
+### AI-assisted analytics and decision-support framework
 
-## Contact
+StatsAgent is a modular analytics framework combining:
+
+- programmatic statistical analysis
+- AI-assisted interpretation
+- validation-aware workflows
+- executive reporting
+- experimentation pipelines
+- forecasting systems
+- and governance-oriented decision support
+
+The framework progresses through a complete analytical lifecycle:
+
+```text
+Descriptive Analytics
+→ Segmentation
+→ Relationship Analysis
+→ Inference
+→ Prediction
+→ Experimentation
+→ Forecasting
+```
+
+The repository includes seven portfolio case studies across:
+- SaaS
+- fintech
+- product analytics
+- marketplace operations
+- and strategic forecasting
+
+[View StatsAgent](https://github.com/raianne-k/statsagent)
+
+---
+
+# Additional Projects
+
+### Purchasing Power Decline — Estonia
+
+Macroeconomic and household purchasing-power analysis focused on inflation pressure, wage growth, and cost-of-living deterioration.
+
+[Project link]https://github.com/raianne-k/purchasing-power-decline-estonia
+
+---
+
+### Marketplace CSAT & Retention Analysis
+
+Marketplace behavioral analysis exploring seller quality, retention dynamics, and customer satisfaction patterns.
+
+[Project link]https://github.com/raianne-k/marketplace-csat-analysis
+
+---
+
+### S&P500 vs IBOVESPA Performance Analysis
+
+Comparative market-performance analysis evaluating volatility, macroeconomic behavior, and cross-market trends.
+
+[Project link]https://github.com/raianne-k/sp500-ibovespa_performance_analysis
+
+---
+
+### Vehicle Feature & Price Analysis
+
+Exploratory pricing analysis investigating how vehicle characteristics relate to market pricing behavior.
+
+[Project link]https://github.com/raianne-k/vehicle-feature-price-analysis
+
+---
+
+# Background
+
+Previously worked in high-revenue iGaming as a Game Designer, focusing on:
+- engagement systems
+- behavioral mechanics
+- live-ops balancing
+- retention dynamics
+- and iterative product optimization
+
+That experience strongly shaped my interest in analytics, experimentation, and operational decision-making.
+
+---
+
+# Connect
+
 - [LinkedIn](https://www.linkedin.com/in/raiannekuzer/)
