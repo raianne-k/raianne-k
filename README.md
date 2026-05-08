@@ -1,8 +1,6 @@
 ![Raianne Kuzer Banner](image.png)
 
-# Hi, I'm Rai
-
-I build analytics and decision-support systems focused on product behavior, operational performance, experimentation, and strategic forecasting.
+# Hi, I'm Rai!
 
 My work combines:
 - product analytics
@@ -10,8 +8,6 @@ My work combines:
 - AI-assisted workflows
 - governance-aware interpretation
 - and executive-facing analytical reporting
-
-I’m especially interested in how analytical systems can support better operational and product decisions while remaining interpretable, reviewable, and grounded in real business context.
 
 ---
 
@@ -28,7 +24,7 @@ I’m especially interested in how analytical systems can support better operati
 
 ---
 
-# Featured Project — StatsAgent
+# Featured Project: StatsAgent
 
 ### AI-assisted analytics and decision-support framework
 
@@ -67,7 +63,7 @@ The repository includes seven portfolio case studies across:
 
 # Additional Projects
 
-### Purchasing Power Decline — Estonia
+### Purchasing Power Decline in Estonia (2021–2025)
 
 Macroeconomic and household purchasing-power analysis focused on inflation pressure, wage growth, and cost-of-living deterioration.
 
@@ -101,7 +97,8 @@ Exploratory pricing analysis investigating how vehicle characteristics relate to
 
 # Background
 
-Previously worked in high-revenue iGaming as a Game Designer, focusing on:
+Previously worked in high-revenue iGaming owning products as a Game Designer, focusing on:
+- market research, roadmap setting and KPI tracking
 - engagement systems
 - behavioral mechanics
 - live-ops balancing
